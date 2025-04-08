@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size:40px  ;
+}
+
+button{
+
+    margin: 20px;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.claro{
+    background-color: rgb(245, 152, 198);
+    color: black;
+}
+
+.Escuro{
+background-color: black;
+color: beige;
+}
+
+.Beach{
+    background-color: rgb(243, 98, 175);
+    color: beige;
+}
+
+.Love{
+background-color: rgb(246, 96, 96);
+color: rgb(29, 26, 26);
+
+}
